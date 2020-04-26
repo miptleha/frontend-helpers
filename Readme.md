@@ -10,3 +10,8 @@ Name | Description
 Name | Description
 -|-
 [ScrollUp](https://markgoodyear.com/labs/scrollup/)|'Scroll to top' feature
+
+## Misc
+Name | Description
+-|-
+[Cheatography](https://cheatography.com/)|Free Cheat Sheets, Revision Aids and Quick References

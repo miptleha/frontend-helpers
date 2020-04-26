@@ -1,4 +1,4 @@
-## Javascript libraries
+## JavaScript components
 Name | Description
 -|-
 [BrowserBlast](https://markgoodyear.com/2013/02/browserblast-2-relaunch/) | Warning for IE users to let them know their browser isn’t supported anymore

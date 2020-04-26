@@ -8,7 +8,7 @@ Name | Description
 [Snap.js](https://github.com/jakiestfu/Snap.js) | Draggable side menu
 | Retina-Friendly Menu 
 
-## Css components
+## CSS components
 Name | Description
 -|-
 [ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts

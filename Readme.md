@@ -1,5 +1,5 @@
 ## Javascript libraries
- sdf|asdf
+ |
 -|-
 [Headhesive.js](https://markgoodyear.com/labs/headhesive/) | An on-demand sticky header
 [Populatr](https://markgoodyear.com/labs/populatr/) | Populate any form with pre-defined data

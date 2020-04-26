@@ -6,7 +6,7 @@ Name | Description
 [Populatr](https://markgoodyear.com/labs/populatr/) | Populate any form with pre-defined data
 [PageTransitions](https://github.com/codrops/PageTransitions) | Page transition effects
 [Snap.js](https://github.com/jakiestfu/Snap.js) | Draggable side menu
-| Retina-Friendly Menu 
+[Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | Overlay images on top of the current page
 
 ## CSS components
 Name | Description

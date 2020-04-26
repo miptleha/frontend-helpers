@@ -6,7 +6,7 @@ Name | Description
 [Populatr](https://markgoodyear.com/labs/populatr/) | Populate any form with pre-defined data
 
 
-## Jquery pluggins
+## Jquery plugins
 Name | Description
 -|-
 [ScrollUp](https://markgoodyear.com/labs/scrollup/)|'Scroll to top' feature

@@ -97,5 +97,6 @@ Name | Description
 [Cheatography](https://cheatography.com/) | Free Cheat Sheets, Revision Aids and Quick References
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
+[1stWebDesigner](https://1stwebdesigner.com/) | Content created by web design professionals, for web design professional
 
 </details>

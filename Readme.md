@@ -3,11 +3,17 @@ Finish at - https://www.jqueryscript.net/blog/list-24-36.html
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
 ## JavaScript libraries
+<details>
+
 Name | Description
 -|-
 [Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
 
+</details>
+
 ## JavaScript components
+<details>
+
 Name | Description
 -|-
 [BrowserBlast](https://markgoodyear.com/2013/02/browserblast-2-relaunch/) | Warning for IE users to let them know their browser isn’t supported anymore
@@ -20,13 +26,11 @@ Name | Description
 [Wheelzoom](http://www.jacklmoore.com/wheelzoom/) | Zooming IMG elements with the mousewheel/trackpad
 [RS Carousel](https://github.com/Redknife/rs-carousel) | Fullpage carousel
 
-## CSS components
-Name | Description
--|-
-[ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts
-
+</details>
 
 ## Jquery plugins
+<details>
+
 Name | Description
 -|-
 [ScrollUp](https://markgoodyear.com/labs/scrollup/) | 'Scroll to top' feature
@@ -53,7 +57,34 @@ Name | Description
 [bxSlider](https://bxslider.com/) | Content slider
 [ImagesCompare](https://github.com/sylvaincombes/jquery-images-compare) | Comparing two images
 
-## Sites
+</details>
+
+## CSS components
+<details>
+
 Name | Description
 -|-
-[Cheatography](https://cheatography.com/)|Free Cheat Sheets, Revision Aids and Quick References
+[ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts
+[98.css](https://jdan.github.io/98.css/) | Building interfaces that look like Windows 98
+
+</details>
+
+## CSS components
+<details>
+
+Name | Description
+-|-
+[ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts
+[98.css](https://jdan.github.io/98.css/) | Building interfaces that look like Windows 98
+
+</details>
+
+## Sites
+<details>
+
+Name | Description
+-|-
+[Cheatography](https://cheatography.com/) | Free Cheat Sheets, Revision Aids and Quick References
+[jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
+
+</details>

@@ -2,6 +2,11 @@ Finish at - https://www.jqueryscript.net/blog/list-24-36.html
 
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
+## JavaScript libraries
+Name | Description
+-|-
+[Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
+
 ## JavaScript components
 Name | Description
 -|-
@@ -46,6 +51,7 @@ Name | Description
 [SyoTimer](http://syomochkin.xyz/folio/syotimer/demo.html) | Countdown on html page
 [Nagging Menu](https://www.jqueryscript.net/demo/Fixed-Position-Top-Menu-Bar-with-jQuery-CSS3-nagging-menu/) | Fixed Position Top Menu Bar
 [bxSlider](https://bxslider.com/) | Content slider
+[ImagesCompare](https://github.com/sylvaincombes/jquery-images-compare) | Comparing two images
 
 ## Sites
 Name | Description

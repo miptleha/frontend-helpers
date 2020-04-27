@@ -1,4 +1,4 @@
-Finish at - https://www.jqueryscript.net/blog/list-24-36.html
+Finish at - https://www.jqueryscript.net/blog/list-24-36.html - Feedback
 
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
@@ -25,6 +25,7 @@ Name | Description
 [Autosize](http://www.jacklmoore.com/autosize/) | Automatically resize textarea height
 [Wheelzoom](http://www.jacklmoore.com/wheelzoom/) | Zooming IMG elements with the mousewheel/trackpad
 [RS Carousel](https://github.com/Redknife/rs-carousel) | Fullpage carousel
+[Flip](https://pqina.nl/flip/) | Flip Countdown
 
 </details>
 
@@ -56,6 +57,14 @@ Name | Description
 [Nagging Menu](https://www.jqueryscript.net/demo/Fixed-Position-Top-Menu-Bar-with-jQuery-CSS3-nagging-menu/) | Fixed Position Top Menu Bar
 [bxSlider](https://bxslider.com/) | Content slider
 [ImagesCompare](https://github.com/sylvaincombes/jquery-images-compare) | Comparing two images
+[Navgoco](http://apps.komposta.net/jquery/navgoco/demo/) | Vertical multi-level slide navigation
+[BlueimpGallery](https://blueimp.github.io/Gallery/) | Image & video gallery, carousel and lightbox
+[Growl](http://ksylvest.github.io/jquery-growl/) | Provide informative messages in the browser
+[Carousel](https://ksylvest.github.io/jquery-carousel/) | Scrolling gallery
+[Age](http://ksylvest.github.io/jquery-age/) | Formats and tracks dates and times as human readable text
+[Gridly](http://ksylvest.github.io/jquery-gridly/) | Drag and drop as well as resize on a grids
+[Lighter](http://ksylvest.github.io/jquery-lighter/) | Zoomable images viewer like other light box
+[FeedbackMe](http://feedback-me.appspot.com/) | Widget with a feedback form which slides from the side of the screen
 
 </details>
 

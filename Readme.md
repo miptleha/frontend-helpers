@@ -59,13 +59,12 @@ Name | Description
 
 </details>
 
-## CSS components
+## CSS frameworks
 <details>
 
 Name | Description
 -|-
-[ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts
-[98.css](https://jdan.github.io/98.css/) | Building interfaces that look like Windows 98
+[Bootstrap](https://getbootstrap.com/) | Toolkit for developing with HTML, CSS, and JS
 
 </details>
 
@@ -86,5 +85,6 @@ Name | Description
 -|-
 [Cheatography](https://cheatography.com/) | Free Cheat Sheets, Revision Aids and Quick References
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
+[MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 
 </details>

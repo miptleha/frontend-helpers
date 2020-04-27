@@ -1,4 +1,5 @@
 Finish at - https://www.jqueryscript.net/blog/list-24-36.html - Feedback
+https://1stwebdesigner.com/modern-css-frameworks-to-speed-up-the-design-process/
 
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 

@@ -84,6 +84,8 @@ Name | Description
 [Mini.css](https://minicss.org/docs) | A minimal, responsive, style-agnostic CSS framework
 [Foundation](https://get.foundation/sites/docs/index.html) | Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins
 [Semantic-UI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
+[UIKit](https://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces
+[MustardUI](https://kylelogue.github.io/mustard-ui/) | A starter CSS framework that actually looks good
 
 </details>
 
@@ -94,6 +96,7 @@ Name | Description
 -|-
 [ResponsibleRetinaReadyMenu](https://tympanus.net/Tutorials/ResponsiveRetinaReadyMenu) | Responsible menu with different, size-dependent layouts
 [98.css](https://jdan.github.io/98.css/) | Building interfaces that look like Windows 98
+[Animate.css](https://daneden.github.io/animate.css/) | A cross-browser library of CSS animations
 
 </details>
 

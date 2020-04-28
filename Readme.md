@@ -10,6 +10,7 @@ Many samples for this components available at [CodePen](https://codepen.io/), [J
 Name | Description
 -|-
 [Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
+[Fuse.js](https://fusejs.io/) | Fuzzy-search library
 
 </details>
 
@@ -76,6 +77,13 @@ Name | Description
 Name | Description
 -|-
 [Bootstrap](https://getbootstrap.com/) | Toolkit for developing with HTML, CSS, and JS
+[Bulma](https://bulma.io/) | Free, open source CSS framework based on Flexbox
+[Picnic](https://picnicss.com/) | Lightweight and beautiful library
+[PureCss](https://purecss.io/) | A set of small, responsive CSS modules
+[Materialize](https://materializecss.com/) | Responsive front-end framework based on Material Design
+[Mini.css](https://minicss.org/docs) | A minimal, responsive, style-agnostic CSS framework
+[Foundation](https://get.foundation/sites/docs/index.html) | Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins
+[Semantic-UI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
 
 </details>
 
@@ -98,5 +106,6 @@ Name | Description
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [1stWebDesigner](https://1stwebdesigner.com/) | Content created by web design professionals, for web design professional
+[MockplusBlog](https://www.mockplus.com/blog) | Designers blog
 
 </details>

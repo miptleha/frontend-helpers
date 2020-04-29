@@ -1,6 +1,4 @@
-Finish at - https://www.jqueryscript.net/blog/list-24-36.html - Feedback
-
-https://1stwebdesigner.com/modern-css-frameworks-to-speed-up-the-design-process/
+Finish at - https://www.jqueryscript.net/blog/list-24-35.html
 
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
@@ -29,6 +27,12 @@ Name | Description
 [Wheelzoom](http://www.jacklmoore.com/wheelzoom/) | Zooming IMG elements with the mousewheel/trackpad
 [RS Carousel](https://github.com/Redknife/rs-carousel) | Fullpage carousel
 [Flip](https://pqina.nl/flip/) | Flip Countdown
+[Swiper](https://swiperjs.com/) | Mobile touch slider
+[Flickity](https://flickity.metafizzy.co/) | Touch, responsive, flickable carousels
+[lightGallery.js](https://sachinchoolur.github.io/lightgallery.js/) | Full featured javascript lightbox gallery, No dependencies.
+[Highcharts](https://www.highcharts.com/blog/products/highcharts/) | Interactive JavaScript charts
+[Siema](https://pawelgrzybek.github.io/siema/) | Lightweight and simple carousel with no dependencies
+[Glider.js](https://nickpiscitelli.github.io/Glider.js/) | Native scrolling list with paging controls
 
 </details>
 
@@ -68,6 +72,14 @@ Name | Description
 [Gridly](http://ksylvest.github.io/jquery-gridly/) | Drag and drop as well as resize on a grids
 [Lighter](http://ksylvest.github.io/jquery-lighter/) | Zoomable images viewer like other light box
 [FeedbackMe](http://feedback-me.appspot.com/) | Widget with a feedback form which slides from the side of the screen
+[TreeTable](http://ludo.cubicphuse.nl/jquery-treetable/) | Display tree of data in table
+[Camera](http://www.pixedelic.com/plugins/camera/) | Nice slideshow plugin
+[jCarousel](https://sorgalla.com/jcarousel/) | Riding carousels for controlling a list of items in horizontal or vertical order
+[Lity](https://sorgalla.com/lity/) | Lightweight, accessible and responsive lightbox
+[lightSlider](http://sachinchoolur.github.io/lightslider/) | Lightweight responsive Content slider with carousel thumbnails navigation
+[lightGallery](http://sachinchoolur.github.io/lightGallery/) | A customizable, modular, responsive, lightbox gallery plugin
+[Flexisel](http://9bitstudios.github.io/flexisel/) | Responsive Carousel
+
 
 </details>
 
@@ -110,5 +122,6 @@ Name | Description
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [1stWebDesigner](https://1stwebdesigner.com/) | Content created by web design professionals, for web design professional
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
+[CSS Script](https://www.cssscript.com) | JavaScript and CSS / CSS3 resources for front-end developers
 
 </details>

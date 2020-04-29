@@ -103,7 +103,7 @@ Name | Description
 [Materialize](https://materializecss.com/) | Responsive front-end framework based on Material Design
 [Mini.css](https://minicss.org/docs) | A minimal, responsive, style-agnostic CSS framework
 [Foundation](https://get.foundation/sites/docs/index.html) | Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins
-[Semantic-UI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
+[SemanticUI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
 [UIKit](https://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces
 [MustardUI](https://kylelogue.github.io/mustard-ui/) | A starter CSS framework that actually looks good
 

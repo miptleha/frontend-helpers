@@ -9,6 +9,7 @@ Name | Description
 -|-
 [Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
 [Fuse.js](https://fusejs.io/) | Fuzzy-search library
+[C3.js](https://c3js.org/) | D3-based reusable chart library
 
 </details>
 
@@ -87,6 +88,8 @@ Name | Description
 [ProSlider](https://github.com/TheSisb/jQuery-proSlider) | Style input[type=range]
 [MiniColors](https://labs.abeautifulsite.net/jquery-minicolors/) | A tiny color picker
 [Kwicks](http://devsmash.com/projects/kwicks) | Sliding panels
+[Bootpag](http://botmonster.com/jquery-bootpag/) | Dynamic pagination
+[jqTime](http://dev.nim579.ru/jqTime/) | Displays time on screen
 
 
 </details>

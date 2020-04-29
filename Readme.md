@@ -33,6 +33,9 @@ Name | Description
 [Highcharts](https://www.highcharts.com/blog/products/highcharts/) | Interactive JavaScript charts
 [Siema](https://pawelgrzybek.github.io/siema/) | Lightweight and simple carousel with no dependencies
 [Glider.js](https://nickpiscitelli.github.io/Glider.js/) | Native scrolling list with paging controls
+[TinyScrollbar](https://baijs.com/tinyscrollbar/) | A crossbrowser lightweight Javascript / jQuery scrollbar
+[Quasar](https://github.com/patrickmonteiro/quasar-audio-record) | Audio Recorder using the MediaStream Recording API
+[FullPageScroll](https://www.cssscript.com/cross-platform-smooth-one-page-scrolling-pure-javascript/) | Smooth one page scrolling effect
 
 </details>
 
@@ -79,6 +82,11 @@ Name | Description
 [lightSlider](http://sachinchoolur.github.io/lightslider/) | Lightweight responsive Content slider with carousel thumbnails navigation
 [lightGallery](http://sachinchoolur.github.io/lightGallery/) | A customizable, modular, responsive, lightbox gallery plugin
 [Flexisel](http://9bitstudios.github.io/flexisel/) | Responsive Carousel
+[StupidTable](https://joequery.github.io/Stupid-Table-Plugin/) | Small and simple table sorter
+[FreeTransform](https://github.com/gthmb/jquery-free-transform) | Move/rotate/scale a DOM element
+[ProSlider](https://github.com/TheSisb/jQuery-proSlider) | Style input[type=range]
+[MiniColors](https://labs.abeautifulsite.net/jquery-minicolors/) | A tiny color picker
+[Kwicks](http://devsmash.com/projects/kwicks) | Sliding panels
 
 
 </details>

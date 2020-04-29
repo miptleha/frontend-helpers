@@ -1,7 +1,7 @@
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
 ## JavaScript web-frameworks
-<detail>
+<details>
 
 Name | Description
 -|-
@@ -15,8 +15,7 @@ Name | Description
 [Knockout](https://knockoutjs.com/) | Implementation of the MVVM pattern with templates
 [Qooxdoo](http://www.qooxdoo.org/) | Ajax web application framework
 
-
-</detail>
+</details>
 
 ## JavaScript libraries
 <details>

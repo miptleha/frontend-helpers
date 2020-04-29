@@ -1,6 +1,22 @@
-Finish at - https://www.jqueryscript.net/blog/list-24-35.html
-
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
+
+## JavaScript web-frameworks
+<detail>
+
+Name | Description
+-|-
+[React](https://reactjs.org/) | A JavaScript library for building user interfaces
+[Ember](https://emberjs.com/) | Building modern web applications
+[Vue.js](https://vuejs.org/) | MVVM JavaScript framework 
+[Angular](https://angular.io/) | TypeScript-based web application framework
+[Polymer](https://www.polymer-project.org/) | Building web applications using Web Components
+[Meteor](https://www.meteor.com/) | Rapid prototyping and produces cross-platform code
+[Backbone.js](https://backbonejs.org/) | RESTful JSON and MVP application model
+[Knockout](https://knockoutjs.com/) | Implementation of the MVVM pattern with templates
+[Qooxdoo](http://www.qooxdoo.org/) | Ajax web application framework
+
+
+</detail>
 
 ## JavaScript libraries
 <details>

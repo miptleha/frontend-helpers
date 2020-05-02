@@ -5,7 +5,7 @@ Many samples for this components available at [CodePen](https://codepen.io/), [J
 
 Name | Description
 -|-
-[Angular](https://angular.io/){target="_blank"} | TypeScript-based web application framework
+[Angular](https://angular.io/) | TypeScript-based web application framework
 [Backbone.js](https://backbonejs.org/) | RESTful JSON and MVP application model
 [Ember](https://emberjs.com/) | Building modern web applications
 [Knockout](https://knockoutjs.com/) | Implementation of the MVVM pattern with templates

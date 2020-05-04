@@ -12,8 +12,8 @@ Name | Description
 [Meteor](https://www.meteor.com/) | Rapid prototyping and produces cross-platform code
 [Polymer](https://www.polymer-project.org/) | Building web applications using Web Components
 [Qooxdoo](http://www.qooxdoo.org/) | Ajax web application framework
-[React](https://reactjs.org/) | A JavaScript library for building user interfaces
-[Vue.js](https://vuejs.org/) | MVVM JavaScript framework 
+[React](https://reactjs.org/)* | A JavaScript library for building user interfaces
+[Vue.js](https://vuejs.org/)* | MVVM JavaScript framework 
 
 </details>
 
@@ -113,16 +113,16 @@ Name | Description
 
 Name | Description
 -|-
-[Bootstrap](https://getbootstrap.com/) | Toolkit for developing with HTML, CSS, and JS
-[Bulma](https://bulma.io/) | Free, open source CSS framework based on Flexbox
-[Foundation](https://get.foundation/sites/docs/index.html) | Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins
+[Bootstrap](https://getbootstrap.com/)* | Toolkit for developing with HTML, CSS, and JS
+[Bulma](https://bulma.io/)* | Free, open source CSS framework based on Flexbox
+[Foundation](https://get.foundation/sites/docs/index.html)* | Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins
 [Materialize](https://materializecss.com/) | Responsive front-end framework based on Material Design
 [Mini.css](https://minicss.org/docs) | A minimal, responsive, style-agnostic CSS framework
 [MustardUI](https://kylelogue.github.io/mustard-ui/) | A starter CSS framework that actually looks good
 [Picnic](https://picnicss.com/) | Lightweight and beautiful library
 [PureCss](https://purecss.io/) | A set of small, responsive CSS modules
 [SemanticUI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
-[UIKit](https://getuikit.com/) | A lightweight and modular front-end framework for developing fast and powerful web interfaces
+[UIKit](https://getuikit.com/)* | A lightweight and modular front-end framework for developing fast and powerful web interfaces
 
 </details>
 
@@ -150,3 +150,5 @@ Name | Description
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
 
 </details>
+
+* - recommended technologies

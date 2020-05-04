@@ -151,4 +151,4 @@ Name | Description
 
 </details>
 
-* - recommended technologies
+\* - recommended technologies

@@ -146,6 +146,7 @@ Name | Description
 -|-
 [1stWebDesigner](https://1stwebdesigner.com/) | Content created by web design professionals, for web design professional
 [Cheatography](https://cheatography.com/) | Free Cheat Sheets, Revision Aids and Quick References
+[CSS Reference](https://cssreference.io/) | A free visual guide to CSS
 [CSS Script](https://www.cssscript.com) | JavaScript and CSS / CSS3 resources for front-end developers
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap

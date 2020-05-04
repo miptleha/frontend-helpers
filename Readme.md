@@ -1,3 +1,5 @@
+Don't get stuck at css, html, jquery level.
+
 Many samples for this components available at [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), [JSBin](https://jsbin.com) and [CodeSandbox](https://codesandbox.io/) playgrounds.
 
 ## JavaScript web-frameworks
@@ -149,6 +151,15 @@ Name | Description
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
 
+</details>
+
+## CMS
+<details>
+Name | Description
+-|-
+[WordPress](https://wordpress.org/)* | Open source software you can use to create a beautiful website, blog, or app
+[MODX](https://modx.com/)* | The fastest, most flexible, scalable and secure, open-source CMS
+  
 </details>
 
 \* - recommended technologies

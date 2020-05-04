@@ -155,6 +155,7 @@ Name | Description
 
 ## CMS
 <details>
+
 Name | Description
 -|-
 [WordPress](https://wordpress.org/)* | Open source software you can use to create a beautiful website, blog, or app

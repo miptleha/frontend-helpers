@@ -151,6 +151,8 @@ Name | Description
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
+[Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project
+[WebGradients](https://webgradients.com/) | Fresh background gradients
 
 </details>
 

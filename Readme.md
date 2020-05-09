@@ -128,6 +128,18 @@ Name | Description
 
 </details>
 
+## Bootstrap extensions
+<detail>
+
+Name | Description
+-|-
+[FlatUI](http://designmodo.github.io/Flat-UI/) | Free User Interface Kit
+[Froala](https://froala.com/design-blocks/) | Over 170 design blocks based on the Bootstrap Library
+[MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
+[Shards](https://designrevision.com/demo/shards/) | UI kit with 11 extra components built on top of Bootstrap
+
+</details>
+
 ## CSS components
 <details>
 
@@ -149,7 +161,6 @@ Name | Description
 [CSS Reference](https://cssreference.io/) | A free visual guide to CSS
 [CSS Script](https://www.cssscript.com) | JavaScript and CSS / CSS3 resources for front-end developers
 [jQueryScript](https://www.jqueryscript.net/) | Free jQuery Plugins and Tutorials
-[MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
 [Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project
 [WebGradients](https://webgradients.com/) | Fresh background gradients

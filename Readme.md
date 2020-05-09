@@ -129,7 +129,7 @@ Name | Description
 </details>
 
 ## Bootstrap extensions
-<detail>
+<details>
 
 Name | Description
 -|-

@@ -137,6 +137,7 @@ Name | Description
 [Froala](https://froala.com/design-blocks/) | Over 170 design blocks based on the Bootstrap Library
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [Shards](https://designrevision.com/demo/shards/) | UI kit with 11 extra components built on top of Bootstrap
+[UX & Bootstrap](https://themes.3rdwavemedia.com/freebies/) | Freebies for developers
 
 </details>
 

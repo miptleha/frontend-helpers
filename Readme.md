@@ -176,8 +176,8 @@ Name | Description
 
 Name | Description
 -|-
-[GitBook](https://github.com/GitbookIO/gitbook) | Modern documentation format and toolchain using Git and Markdown
 [Docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites
+[GitBook](https://github.com/GitbookIO/gitbook) | Modern documentation format and toolchain using Git and Markdown
   
 </details>
 

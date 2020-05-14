@@ -19,17 +19,6 @@ Name | Description
 
 </details>
 
-## JavaScript libraries
-<details>
-
-Name | Description
--|-
-[C3.js](https://c3js.org/) | D3-based reusable chart library
-[Fuse.js](https://fusejs.io/) | Fuzzy-search library
-[Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
-
-</details>
-
 ## JavaScript components
 <details>
 
@@ -37,10 +26,14 @@ Name | Description
 -|-
 [Autosize](http://www.jacklmoore.com/autosize/) | Automatically resize textarea height
 [BrowserBlast](https://markgoodyear.com/2013/02/browserblast-2-relaunch/) | Warning for IE users to let them know their browser isn’t supported anymore
+[C3.js](https://c3js.org/) | D3-based reusable chart library
+[Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers
 [Flickity](https://flickity.metafizzy.co/) | Touch, responsive, flickable carousels
 [Flip](https://pqina.nl/flip/) | Flip Countdown
 [FullPageScroll](https://www.cssscript.com/cross-platform-smooth-one-page-scrolling-pure-javascript/) | Smooth one page scrolling effect
+[Fuse.js](https://fusejs.io/) | Fuzzy-search library
 [Glider.js](https://nickpiscitelli.github.io/Glider.js/) | Native scrolling list with paging controls
+[Hammer.js](http://hammerjs.github.io/) | Triggers gesture events
 [Headhesive.js](https://markgoodyear.com/labs/headhesive/) | An on-demand sticky header
 [Highcharts](https://www.highcharts.com/blog/products/highcharts/) | Interactive JavaScript charts
 [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | Overlay images on top of the page

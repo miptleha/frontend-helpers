@@ -158,6 +158,7 @@ Name | Description
 [MockplusBlog](https://www.mockplus.com/blog) | Designers blog
 [Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project
 [WebGradients](https://webgradients.com/) | Fresh background gradients
+[Freebiesbug](https://freebiesbug.com/) | Free resources for Designers and Developers
 
 </details>
 

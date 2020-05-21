@@ -179,6 +179,7 @@ Name | Description
 -|-
 [Docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites
 [GitBook](https://github.com/GitbookIO/gitbook) | Modern documentation format and toolchain using Git and Markdown
+[Hugo](https://gohugo.io/) | Hugo is one of the most popular open-source static site generators
   
 </details>
 

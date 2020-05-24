@@ -131,6 +131,7 @@ Name | Description
 [MDB](https://mdbootstrap.com/) | Material Design for Bootstrap
 [Shards](https://designrevision.com/demo/shards/) | UI kit with 11 extra components built on top of Bootstrap
 [UX & Bootstrap](https://themes.3rdwavemedia.com/freebies/) | Freebies for developers
+[BootstrapBay](https://bootstrapbay.com/themes?page=1&type=free) | Free Bootstrap Themes
 
 </details>
 

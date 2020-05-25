@@ -132,6 +132,7 @@ Name | Description
 [Shards](https://designrevision.com/demo/shards/) | UI kit with 11 extra components built on top of Bootstrap
 [UX & Bootstrap](https://themes.3rdwavemedia.com/freebies/) | Freebies for developers
 [BootstrapBay](https://bootstrapbay.com/themes?page=1&type=free) | Free Bootstrap Themes
+[Themesberg](https://www.themesberg.com/themes) | Free and premium themes
 
 </details>
 

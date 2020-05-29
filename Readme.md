@@ -15,7 +15,8 @@ Name | Description
 [Polymer](https://www.polymer-project.org/) | Building web applications using Web Components
 [Qooxdoo](http://www.qooxdoo.org/) | Ajax web application framework
 [React](https://reactjs.org/)* | A JavaScript library for building user interfaces
-[Vue.js](https://vuejs.org/)* | MVVM JavaScript framework 
+[Vue.js](https://vuejs.org/)* | MVVM JavaScript framework
+[Svetle](https://svelte.dev/) | Cybernetically enhanced web apps
 
 </details>
 

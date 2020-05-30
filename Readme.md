@@ -119,6 +119,7 @@ Name | Description
 [PureCss](https://purecss.io/) | A set of small, responsive CSS modules
 [SemanticUI](https://semantic-ui.com/) | Component framework based around useful principles from natural language
 [UIKit](https://getuikit.com/)* | A lightweight and modular front-end framework for developing fast and powerful web interfaces
+[FlexboxGrid2](https://evgenyrodionov.github.io/flexboxgrid2/) | A grid system based on the flex display property
 
 </details>
 

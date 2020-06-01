@@ -163,6 +163,7 @@ Name | Description
 [Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project
 [WebGradients](https://webgradients.com/) | Fresh background gradients
 [Freebiesbug](https://freebiesbug.com/) | Free resources for Designers and Developers
+[FreeFrontend](https://freefrontend.com/) | Free html components
 
 </details>
 
